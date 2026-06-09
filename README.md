@@ -1,2 +1,2 @@
 # ejemplo-pull-hoy
-aprendiendo git
+aprendiendo git en el dia de hoy 
